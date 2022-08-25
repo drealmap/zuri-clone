@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/zuri-clone/static/css/main.54b6786f.css",
-    "main.js": "/zuri-clone/static/js/main.842c1262.js",
+    "main.css": "/zuri-clone/static/css/main.80552f14.css",
+    "main.js": "/zuri-clone/static/js/main.0d269240.js",
     "static/media/AvertaDemo-Regular.otf": "/zuri-clone/static/media/AvertaDemo-Regular.a298a0ac59f09aeb64eb.otf",
     "index.html": "/zuri-clone/index.html",
-    "main.54b6786f.css.map": "/zuri-clone/static/css/main.54b6786f.css.map",
-    "main.842c1262.js.map": "/zuri-clone/static/js/main.842c1262.js.map"
+    "main.80552f14.css.map": "/zuri-clone/static/css/main.80552f14.css.map",
+    "main.0d269240.js.map": "/zuri-clone/static/js/main.0d269240.js.map"
   },
   "entrypoints": [
-    "static/css/main.54b6786f.css",
-    "static/js/main.842c1262.js"
+    "static/css/main.80552f14.css",
+    "static/js/main.0d269240.js"
   ]
 }
