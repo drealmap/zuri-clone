@@ -10,7 +10,9 @@ module.exports = {
   ],
   theme: 
     {screens: {
-      '2xl': {'max': '1535px'},
+      '2xl': {'max': '1200px'},
+
+      'bxg': {'min': '1200px'},
 
       'lg': {'min': '769px'},
 
